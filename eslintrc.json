@@ -23,7 +23,8 @@
       "sourceType": "module"
   },
   "plugins": [
-      "react"
+      "react",
+      "react-native"
   ],
   "rules": {
       "indent": ["error", 4, { "SwitchCase": 1,"flatTernaryExpressions": true }],
